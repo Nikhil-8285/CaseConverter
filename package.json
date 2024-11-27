@@ -1,6 +1,6 @@
 {
-    "homepage": "https://Nikhil-8285.github.io/Case Converter",
-    "name": "practice",
+    "homepage": "https://Nikhil-8285.github.io/CaseConverter",
+    "name": "caseconverter",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
