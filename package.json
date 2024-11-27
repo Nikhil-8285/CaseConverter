@@ -1,11 +1,6 @@
 {
-<<<<<<< HEAD
     "homepage": "https://Nikhil-8285.github.io/CaseConverter",
     "name": "caseconverter",
-=======
-    "homepage": "https://Nikhil-8285.github.io/textutils",
-    "name": "CaseConverter",
->>>>>>> e88fe89ad649524c18183878eea002498af88d08
     "version": "0.1.0",
     "private": true,
     "dependencies": {
