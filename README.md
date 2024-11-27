@@ -15,6 +15,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - **Word and Character Count**: Get the total number of words and characters in your text.
 - **Reading Time Estimation**: The app estimates how long it would take a human to read the provided text based on an average reading speed.
 
+## Live Demo
+
+You can access the app and try out the features here: [CaseConverter Live Demo](https://nikhil-8285.github.io/CaseConverter/)
+
 ## Available Scripts
 
 In the project directory, you can run:
