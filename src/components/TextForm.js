@@ -44,11 +44,11 @@ export default function TextForm(props) {
         <div className="mb-3">
          <textarea className="form-control fs-5" id="myBox" value={text} onChange={heandleOnChange} rows="8" ></textarea>
         </div>
-        <button className="btn btn-primary mx-1" onClick={heandleUpClick}>Click to UpperCase</button>
-        <button className="btn btn-primary mx-1 " onClick={heandleLcClick}>Click to Lowercase</button>
-        <button className="btn btn-primary mx-1 " onClick={heandleCopyText}>Click to Copy text</button>
-        <button className="btn btn-primary mx-1 " onClick={heandleRemoveText}>Clear Text</button>
-        <button className="btn btn-primary mx-1 " onClick={heandleReadText} type="submit" >Read Text</button>
+        <button className="btn btn-primary mx-1 my-1" onClick={heandleUpClick}>Click to UpperCase</button>
+        <button className="btn btn-primary mx-1 my-1 " onClick={heandleLcClick}>Click to Lowercase</button>
+        <button className="btn btn-primary mx-1 my-1 " onClick={heandleCopyText}>Click to Copy text</button>
+        <button className="btn btn-primary mx-1 my-1 " onClick={heandleRemoveText}>Clear Text</button>
+        <button className="btn btn-primary mx-1 my-1 " onClick={heandleReadText} type="submit" >Read Text</button>
 
 
       </div>
